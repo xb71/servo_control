@@ -33,6 +33,4 @@ The Arduino sketch `servo_sweep_control.ino` implements the following sequence:
 
 Upload the `servo_sweep_control.ino` sketch to your Arduino Uno. Ensure that the servo motors are connected as per the connections listed above. Upon powering the Arduino, the servo motors will begin their sweeping motion sequentially.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
